@@ -1,0 +1,24 @@
+{
+  "name": "react-hooks-npm-lab",
+  "version": "1.0.0",
+  "description": "## Learning Goals",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R mocha-multi --reporter-options spec=-,json=.results.json",
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schen0096/react-hooks-npm-lab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/schen0096/react-hooks-npm-lab/issues"
+  },
+  "homepage": "https://github.com/schen0096/react-hooks-npm-lab#readme",
+  "dependencies": {
+    "date-fns": "^2.22.1",
+    "serve": "^12.0.0"
+  }
+}
